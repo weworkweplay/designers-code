@@ -4,4 +4,5 @@
 **T**:  
 ![I'm in](https://media.giphy.com/media/xT1XGUM8m88TVfDh5K/giphy.gif)  
 **V**: Word.  
-**T**: Whatdoyouwannaknow
+**T**: Whatdoyouwannaknow  
+**V**: All the things  
