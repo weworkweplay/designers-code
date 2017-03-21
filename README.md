@@ -8,3 +8,6 @@
 **V**: All the things  
 **T**: Why?!  
 **V**: I want to become a 🦄  
+**T**:  
+![ok](https://media.giphy.com/media/a3zqvrH40Cdhu/giphy.gif)  
+What do you know already?   
