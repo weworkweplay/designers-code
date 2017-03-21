@@ -1,2 +1,3 @@
-# designers-code
-Conversations between a designer and a developer
+# Designers ♥ Code
+
+Hey Thijs, how about we start writing that book we talked about for a while?
