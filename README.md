@@ -10,4 +10,5 @@
 **V**: I want to become a 🦄  
 **T**:  
 ![ok](https://media.giphy.com/media/a3zqvrH40Cdhu/giphy.gif)  
-What do you know already?   
+What do you know already?  
+**V**: I done some Javascript, HTML and CSS. Even some AS3 and Processing back in the day. Anything to get the job done. I'm comfortable using variables, functions, listeners etc, but I consider myself a tweaker. I want to get to a point where I can code my own portfolio from scratch. Sounds like now is a good time to go deep into HTML/CSS again. What would be the first thing to learn?
