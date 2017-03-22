@@ -13,5 +13,6 @@
 What do you know already?  
 **V**: I done some Javascript, HTML and CSS. Even some AS3 and Processing back in the day. Anything to get the job done. I'm comfortable using variables, functions, listeners etc, but I consider myself a tweaker. I want to get to a point where I can code my own portfolio from scratch. Sounds like now is a good time to go deep into HTML/CSS again. What would be the first thing to learn?  
 **T**: Positioning elements, once you understand how to put things on your screen the way you want, you'll have that warm and fuzzy feeling inside that we all secretly yearn for ;). Can you send me a very simple design of some elements you want to position on a site?  
-**V**: How about this?
-[hello](/img/example-1@2x.png)
+**V**: How about this? I remember vertical position was always a fun one.  
+500x300px #A6CFE2 centered box, 2px rounded corners with centered text, Avenir Medium
+![](/img/example-1@2x.png)
