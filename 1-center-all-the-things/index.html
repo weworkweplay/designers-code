@@ -1,0 +1,42 @@
+<html>
+    <head>
+        <title>1-center-all-the-things</title>
+
+        <style>
+            .designers-love-developers{
+                /* POSITION OUR BOX */
+                position: absolute; /* we're positioning our box absolute to its parent, in this case the parent is the <body> or in human terms the browser window */
+                width: 500px;
+                height: 300px;
+                left: 50%; /* offset to 50% of screen width */
+                top: 50%; /* offset to 50% of screen height */
+                margin-top: -150px; /* 300px/2 (half our height), we move our box minus half its width back to the left */
+                margin-left: -250px; /* 500px/2 (half our width), we move our box minus half its height back to the top */
+
+                /* POSITION OUR TEXT INSIDE THE BOX */
+                text-align: center; /* Centers our text horizontally */
+                line-height: 300px; /* Centers our text vertically, css by default vertically centers text relative to the line height so we're leveraging that here */
+
+                /* COLOR */
+                background-color: #A6CFE2;
+                color: #FFFFFF;
+
+                /* FONT */
+                font-size: 22px;
+                font-family: Avenir, sans-serif; /* Set font to Avenir with a fallback to a sans-serif in case you dont have the font installed */
+                font-weight: 400; /* Set font weight to 400, corresponds to "Medium", 300 is regular, 400 medium, 500 bold, 200 fine/hair, 600 black */
+
+                /* ROUNDED CORNERS */
+                border-radius: 2px;
+            }
+            .heart{
+                font-size: 15px; /* Override the parent style, only make the heart smaller */
+            }
+        </style>
+
+    </head>
+    
+    <body>
+        <div class='designers-love-developers'>Designers <span class='heart'>♥</span> Developers</div>
+    </body>
+</html>

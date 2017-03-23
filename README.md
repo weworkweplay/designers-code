@@ -15,4 +15,5 @@ What do you know already?
 **T**: Positioning elements, once you understand how to put things on your screen the way you want, you'll have that warm and fuzzy feeling inside that we all secretly yearn for ;). Can you send me a very simple design of some elements you want to position on a site?  
 **V**: How about this? I remember vertical position was always a fun one.  
 500x300px #A6CFE2 centered box, 2px rounded corners with centered text, Avenir Medium
-![](/img/example-1@2x.png)
+![](/img/example-1@2x.png)  
+**T**: Alright! Look in the [1-center-all-the-things](./1-center-all-the-things) folder! I've created an `index.html` file with comments in the code to get started! Let's go over each operation (positioning, color, font, overriding) step by step! Let's start with the positioning, do you see and understand what I did there?
