@@ -16,4 +16,5 @@ What do you know already?
 **V**: How about this? I remember vertical position was always a fun one.  
 500x300px #A6CFE2 centered box, 2px rounded corners with centered text, Avenir Medium
 ![](/img/example-1@2x.png)  
-**T**: Alright! Look in the [1-center-all-the-things](./1-center-all-the-things) folder! I've created an `index.html` file with comments in the code to get started! Let's go over each operation (positioning, color, font, overriding) step by step! Let's start with the positioning, do you see and understand what I did there?
+**T**: Alright! Look in the [1-center-all-the-things](./1-center-all-the-things) folder! I've created an `index.html` file with comments in the code to get started! Let's go over each operation (positioning, color, font, overriding) step by step! Let's start with the positioning, do you see and understand what I did there?  
+**V**: Absolute positioning makes sense to me as a designer. Looks like to left is the reference point of the Box, just like in Sketch. Any downsides to using absolute positioning? I added the .sketch file in case you want to make some annotations.
