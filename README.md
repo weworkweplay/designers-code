@@ -17,4 +17,7 @@ What do you know already?
 500x300px #A6CFE2 centered box, 2px rounded corners with centered text, Avenir Medium
 ![](/img/example-1@2x.png)  
 **T**: Alright! Look in the [1-center-all-the-things](./1-center-all-the-things) folder! I've created an `index.html` file with comments in the code to get started! Let's go over each operation (positioning, color, font, overriding) step by step! Let's start with the positioning, do you see and understand what I did there?  
-**V**: Absolute positioning makes sense to me as a designer. Looks like to left is the reference point of the Box, just like in Sketch. Any downsides to using absolute positioning? I added the .sketch file in case you want to make some annotations.
+**V**: Absolute positioning makes sense to me as a designer. Looks like to left is the reference point of the Box, just like in Sketch. Any downsides to using absolute positioning? I added the .sketch file in case you want to make some annotations.  
+***T***: I've added 2 images below that better illustrate how positioning works in CSS. Absolute positioning works well enough in most cases except when you don't know the width or height of your box, that's another story, do you want me to explain how to position something with variable width/height?
+![](/img/example-2@2x.png)  
+![](/img/example-3@2x.png)  
